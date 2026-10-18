@@ -1,17 +1,3 @@
-import Image from "next/image";
-
-export default function Home() {
-  return (
-    <main className="min-h-screen px-6 py-16">
-      <section className="mx-auto max-w-3xl">
-        <h1 className="text-4xl font-bold tracking-tight">
-          Contact
-        </h1>
-
-        <p className="mt-6 text-lg text-slate-600">
-          Contact text
-        </p>
-      </section>
-    </main>
-  );
-}
+import type {Metadata} from 'next';
+export const metadata:Metadata={title:'Contact'};
+export default function Contact(){return <main id="main"><section className="page-heading contact-page"><p className="eyebrow">GREAT THINGS START WITH A HELLO</p><h1>Have an idea?<br/><span className="gradient">Let’s talk.</span></h1><p className="intro">A project, a collaboration, or a friendly introduction. I’d love to hear what you have in mind.</p><a className="email-link" href="mailto:cheannecruz@gmail.com">cheannecruz@gmail.com <span>↗</span></a><p className="muted">Opens your email app. Tell me a little about your project and what you’re looking for.</p><div className="contact-links"><a className="text-link" href="https://github.com/cheannecruz" target="_blank" rel="noreferrer">Find me on GitHub ↗</a><a className="text-link" href="/work">Explore my work →</a></div></section></main>}

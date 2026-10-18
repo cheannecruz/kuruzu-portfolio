@@ -1,17 +1,4 @@
-import Image from "next/image";
-
-export default function Home() {
-  return (
-    <main className="min-h-screen px-6 py-16">
-      <section className="mx-auto max-w-3xl">
-        <h1 className="text-4xl font-bold tracking-tight">
-          About
-        </h1>
-
-        <p className="mt-6 text-lg text-slate-600">
-          About text
-        </p>
-      </section>
-    </main>
-  );
-}
+import Link from 'next/link';
+import type {Metadata} from 'next';
+export const metadata:Metadata={title:'About'};
+export default function About(){return <main id="main"><section className="page-heading"><p className="eyebrow">HELLO, I’M CHERYL</p><h1>A designer’s eye.<br/><span className="gradient">A maker’s mindset.</span></h1><p className="intro">UX/UI designer and front-end developer, connecting thoughtful design with the way it comes to life.</p></section><section className="about-detail section"><div className="portrait-art"><img src="/logo.jpg" width="300" height="300" alt="Cheryl’s Kuruzu cat logo"/><span>A LITTLE CURIOUS. ALWAYS.</span></div><div><p className="eyebrow">BEHIND KURUZU</p><h2>Good experiences<br/>are in the details.</h2><p>I design accessible, scalable interfaces across product, design systems, and customer experience. My front-end background helps me think about how an interface behaves as well as how it looks.</p><p>Kuruzu is my personal space to explore that connection: clear structure, expressive visuals, and a playful identity that makes room for a little personality.</p><Link className="text-link" href="/contact">Let’s connect ↗</Link></div></section><section className="section"><p className="eyebrow">WHAT I CARE ABOUT</p><div className="principles">{[['01','Clarity first','Make the next step feel natural. Give content room to breathe and keep the important things easy to find.'],['02','Designed for people','Consider readability, keyboard access, and smaller screens from the beginning.'],['03','Built with intention','Connect visual decisions with reusable components and thoughtful implementation.']].map(([n,t,d])=><article key={n}><span>{n} /</span><h3>{t}</h3><p>{d}</p></article>)}</div></section></main>}

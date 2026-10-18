@@ -1,36 +1,30 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Kuruzu portfolio
 
-## Getting Started
+A responsive portfolio for Cheryl Anne Cruz, based on the existing Kuruzu cat logo. Includes home, work, about, contact, and a portfolio concept walkthrough.
 
-First, run the development server:
+## Run locally
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+Requires Node.js 20.9 or later.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+    npm ci
+    npm run dev
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+Visit http://localhost:3000.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## Production
 
-## Learn More
+    npm run build
 
-To learn more about Next.js, take a look at the following resources:
+The complete static website is generated in `out/`. It can be hosted on a static host. Contact links open the visitor’s email application; there is no form backend or message storage.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## Content
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+- Update personal copy in `app/page.tsx` and `app/about/page.tsx`.
+- Add real projects in `app/work/` and update `app/components/project.tsx`.
+- The Kuruzu walkthrough is labelled as a personal portfolio concept. Replace or supplement it with verified project case studies.
+- The contact email comes from the GitHub profile. Update it in `app/contact/page.tsx` and `app/layout.tsx` if needed.
+- Colours and responsive styles live in `app/globals.css`; the existing logo is `public/logo.jpg`.
 
-## Deploy on Vercel
+## Validation
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+Production build and TypeScript checks pass. Exported internal links and asset paths were checked. Desktop browser navigation was verified. Mobile styles are included; mobile browser testing remains outstanding.
