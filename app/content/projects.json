@@ -1,0 +1,542 @@
+[
+  {
+    "slug": "join",
+    "name": "Join",
+    "title": "Making clinical collaboration easier to navigate.",
+    "summary": "A shared design language and group-call prototypes for a medical communication app.",
+    "kind": "CLIENT WORK · ALLM INC.",
+    "role": "Mobile UI/UX designer",
+    "scope": "Design system · Group calling",
+    "tools": "Figma",
+    "cover": {
+      "file": "style-library2.png",
+      "alt": "Original Join shared design library",
+      "caption": "Join — the original shared style library."
+    },
+    "sections": [
+      {
+        "title": "Two problems, one product.",
+        "paragraphs": [
+          "Join is a communication app for medical professionals. Allm Inc., a medical technology company in Tokyo, engaged me as a mobile UI/UX designer. The work addressed two needs: inconsistent interface elements across the app, and a way for practitioners to collaborate in a group call.",
+          "My contribution covered interface design, a shared style and component library, competitor analysis, wireframes, and Figma prototypes. The decision to introduce group calling was made by the team."
+        ],
+        "images": [],
+        "bullets": []
+      },
+      {
+        "title": "Create consistency from the smallest elements.",
+        "paragraphs": [
+          "I organised colours, typography, icons, shadows, and illustrations into a shared library. Rather than define each screen in isolation, I used Atomic Design to connect small elements to reusable interface patterns.",
+          "The structure moved from atoms such as buttons and labels, through list-item molecules and participant-list organisms, to page templates. This gave the design work a common foundation as the call experience developed."
+        ],
+        "images": [
+          {
+            "file": "empty-screens.png",
+            "alt": "Original Join empty-state illustrations",
+            "caption": "Illustrations from the shared library, preserved as designed."
+          },
+          {
+            "file": "atomic-design.png",
+            "alt": "Join interface components organised using Atomic Design",
+            "caption": "Original component hierarchy, from individual elements to composed screens."
+          }
+        ],
+        "bullets": []
+      },
+      {
+        "title": "Make the people in a call visible.",
+        "paragraphs": [
+          "The group-call requirements focused on identifying participants, understanding each person’s professional role, and recording a call for later review. Those needs shaped what the interface needed to communicate beyond simply connecting a call.",
+          "I explored participant-list arrangements in wireframes and compared the group-call patterns of Messenger, WhatsApp, Skype, and Telegram. The aim was to use familiar conventions while accounting for the information practitioners needed."
+        ],
+        "images": [
+          {
+            "file": "wireframes.png",
+            "alt": "Original Join wireframes comparing vertical and horizontal participant lists",
+            "caption": "Early explorations of participant visibility and screen layout."
+          },
+          {
+            "file": "competitors.png",
+            "alt": "Original comparison of group-call interfaces",
+            "caption": "Competitor analysis used to examine established call patterns."
+          }
+        ],
+        "bullets": []
+      },
+      {
+        "title": "From requirements to prototypes.",
+        "paragraphs": [
+          "The work produced a shared design library and Figma prototypes for group-call interactions. The examples below show the original design work.",
+          "Together, the library and prototypes connect reusable visual foundations with a concrete interaction flow. This case study focuses on those design deliverables."
+        ],
+        "images": [
+          {
+            "file": "protoOne.gif",
+            "alt": "Original animated Join group-call prototype, first example",
+            "caption": "Group-call prototype — original animation."
+          },
+          {
+            "file": "protoTwo.gif",
+            "alt": "Original animated Join group-call prototype, second example",
+            "caption": "Alternative interaction sequence — original animation."
+          }
+        ],
+        "bullets": []
+      },
+      {
+        "title": "What I would validate next.",
+        "paragraphs": [
+          "I would evaluate the flow with medical professionals: can they identify the right participant, understand roles, and find call controls without losing context? Recording requirements would also need review with the product and governance teams."
+        ],
+        "images": [],
+        "bullets": []
+      }
+    ],
+    "featured": true
+  },
+  {
+    "slug": "crowfessor",
+    "name": "Crowfessor",
+    "title": "Turning student uncertainty into a support concept.",
+    "summary": "Student interviews, a journey map, and a conversational UI concept for navigating university life.",
+    "kind": "TEAM CONCEPT",
+    "role": "UX research · UI and logo design",
+    "scope": "Student support · Concept development",
+    "tools": "Figma · Miro",
+    "cover": {
+      "file": "crowfessorBottom.jpg",
+      "alt": "Original Crowfessor conversational UI mock-ups",
+      "caption": "Crowfessor — original interface designs."
+    },
+    "sections": [
+      {
+        "title": "A new country. An unfamiliar university.",
+        "paragraphs": [
+          "Crowfessor explored how a virtual professor could help students, especially international students, find information and navigate personal and professional development. Moving countries, adapting to university life, and finding relevant opportunities formed the context for the concept.",
+          "My contribution spanned research, interface design, and logo exploration. The student interviews were a team activity, and the resulting concept brought those insights into a student-support experience."
+        ],
+        "images": [],
+        "bullets": []
+      },
+      {
+        "title": "Understand the transition before defining features.",
+        "paragraphs": [
+          "Our team interviewed international students to understand their experiences and difficulties. We brought that material into a persona and a journey map, capturing goals, expectations, frustrations, and the stages of moving into a new university environment.",
+          "These artefacts gave the concept a more specific audience and context than a generic university chatbot."
+        ],
+        "images": [
+          {
+            "file": "personaOne.jpg",
+            "alt": "Original Crowfessor student persona",
+            "caption": "Student persona developed from the team’s interview work."
+          },
+          {
+            "file": "crowfessorJourneyMap.jpg",
+            "alt": "Original international-student journey map",
+            "caption": "Journey map documenting the transition into university life."
+          }
+        ],
+        "bullets": []
+      },
+      {
+        "title": "Organise support around student needs.",
+        "paragraphs": [
+          "We grouped the proposed features into personal and professional development. Personal support focused on finding useful university information. Professional support explored opportunities for building skills and connections.",
+          "The interface examples make those ideas concrete: introducing the assistant, answering a library-hours question, and suggesting an event relevant to a student’s interests."
+        ],
+        "images": [
+          {
+            "file": "crowfessorFeatures.jpg",
+            "alt": "Original Crowfessor feature grouping",
+            "caption": "Proposed features organised around personal and professional development."
+          },
+          {
+            "file": "crowfessorLogoStudy.jpg",
+            "alt": "Original Crowfessor logo explorations",
+            "caption": "Original logo explorations for the assistant’s identity."
+          }
+        ],
+        "bullets": []
+      },
+      {
+        "title": "A concept to test, not a proven service.",
+        "paragraphs": [
+          "The output was a research-informed concept supported by a persona, a journey map, feature exploration, and UI mock-ups. The screens make the proposed conversations tangible, providing a starting point for evaluation with students."
+        ],
+        "images": [
+          {
+            "file": "crowfessorBottom.jpg",
+            "alt": "Original three-screen Crowfessor interface presentation",
+            "caption": "Original UI mock-ups: onboarding, a practical question, and an event suggestion."
+          }
+        ],
+        "bullets": []
+      },
+      {
+        "title": "What I would validate next.",
+        "paragraphs": [
+          "I would test whether students can find an accurate answer, recognise the assistant’s limits, and reach a person when the question needs human support. Information ownership and keeping answers current would need to be resolved before a live service."
+        ],
+        "images": [],
+        "bullets": []
+      }
+    ],
+    "featured": true
+  },
+  {
+    "slug": "niftystack",
+    "name": "NiftyStack.IO",
+    "title": "Bringing a studio’s identity to the web.",
+    "summary": "Logo, illustration, responsive web design, and front-end development for a studio I co-founded.",
+    "kind": "STUDIO PROJECT",
+    "role": "Co-founder · Designer · Front-end developer",
+    "scope": "Brand identity · Responsive website",
+    "tools": "Affinity Designer · Vue",
+    "cover": {
+      "file": "niftyStackBottom.jpg",
+      "alt": "Original NiftyStack website homepage design",
+      "caption": "NiftyStack.IO — original homepage design."
+    },
+    "sections": [
+      {
+        "title": "Explain what we do, through what we make.",
+        "paragraphs": [
+          "My partner and I founded NiftyStack.IO as a design and development company. The studio began in Japan and later relocated to Melbourne. Our website was a way to introduce our services and express the relationship between creativity and technology.",
+          "I worked on the logo, website concept, vector illustrations, and front-end development. This was a studio project with a shared discussion and iteration process."
+        ],
+        "images": [],
+        "bullets": []
+      },
+      {
+        "title": "Build a recognisable visual language.",
+        "paragraphs": [
+          "The logo stacks simple forms to create the initials NS. In the original identity, blue represented trust and responsibility, while pink expressed enthusiasm for the work.",
+          "I carried that visual language into the website through vector illustrations and mock-ups created in Affinity Designer."
+        ],
+        "images": [
+          {
+            "file": "nifty-logo.svg",
+            "alt": "Original stacked NS logo for NiftyStack",
+            "caption": "Original NiftyStack identity."
+          },
+          {
+            "file": "niftyImage.jpg",
+            "alt": "Original NiftyStack illustration work in Affinity Designer",
+            "caption": "Vector illustration development in Affinity Designer."
+          }
+        ],
+        "bullets": []
+      },
+      {
+        "title": "Connect visual design to implementation.",
+        "paragraphs": [
+          "I built a responsive website on a Vue Material template and explored 3D hover effects for the services section. The implementation was part of the design work: it was an opportunity to translate static illustrations into a more expressive web experience.",
+          "The homepage developed through discussions and repeated visual iterations, rather than a single handover from design to code."
+        ],
+        "images": [
+          {
+            "file": "niftyGif.gif",
+            "alt": "Original animated NiftyStack services hover effect",
+            "caption": "Original services interaction experiment."
+          },
+          {
+            "file": "niftyStackBottom.jpg",
+            "alt": "Complete original NiftyStack homepage",
+            "caption": "Completed homepage design, unchanged from the original portfolio."
+          }
+        ],
+        "bullets": []
+      },
+      {
+        "title": "What the work delivered.",
+        "paragraphs": [
+          "The project brought the studio’s identity, illustrations, services, and responsive front end into one website. It shows my contribution across brand expression and implementation.",
+          "To evaluate the experience further, I would look at whether visitors understand the services, recognise a fit for their project, and find a clear next step towards an enquiry."
+        ],
+        "images": [],
+        "bullets": []
+      }
+    ],
+    "featured": true
+  },
+  {
+    "slug": "kraite",
+    "name": "Kraite",
+    "title": "One identity for selling, trading, and giving.",
+    "summary": "A visual foundation, login interface, and original illustrations for a marketplace in development.",
+    "kind": "PRODUCT IN DEVELOPMENT",
+    "role": "UI and logo designer · Illustrator · Front-end developer",
+    "scope": "Brand · Style guide · Web interface",
+    "tools": "Affinity Designer · Vue.js",
+    "cover": {
+      "file": "kraiteLogin.png",
+      "alt": "Original Kraite login interface",
+      "caption": "Kraite — original login screen."
+    },
+    "sections": [
+      {
+        "title": "More than a place to sell.",
+        "paragraphs": [
+          "Kraite explored a marketplace where people could sell, trade, or donate their belongings. The idea connected people giving away preloved items with people who needed them, while also making room for collections and shared interests.",
+          "I contributed the logo, website concept, illustrations, and Vue.js front-end work. The original portfolio documented the web and iOS product while it was in development; this case study focuses on the design artefacts from that stage."
+        ],
+        "images": [],
+        "bullets": []
+      },
+      {
+        "title": "Define a foundation before expanding the interface.",
+        "paragraphs": [
+          "I created a style guide as the building blocks for the website. The guide gave the product a consistent set of visual elements before those decisions were applied to individual screens.",
+          "The login screen is a concrete example of that translation: the identity, form elements, and illustration language are brought into one interface."
+        ],
+        "images": [
+          {
+            "file": "kraiteLogo.svg",
+            "alt": "Original Kraite logo",
+            "caption": "Original Kraite logo."
+          },
+          {
+            "file": "kraiteStyleguide.png",
+            "alt": "Original Kraite interface style guide",
+            "caption": "Style guide created for the product."
+          },
+          {
+            "file": "kraiteLogin.png",
+            "alt": "Original Kraite login screen with social sign-in and account creation",
+            "caption": "Login screen assembled from the original design foundation."
+          }
+        ],
+        "bullets": []
+      },
+      {
+        "title": "Give the product its own character.",
+        "paragraphs": [
+          "I developed a set of illustrations for Kraite. They formed part of the product’s identity alongside the interface work, rather than being generic artwork added at the end."
+        ],
+        "images": [
+          {
+            "file": "kraiteIllustrations.png",
+            "alt": "Original Kraite illustrations",
+            "caption": "Original illustrations created for Kraite; colours and compositions are unchanged."
+          }
+        ],
+        "bullets": []
+      },
+      {
+        "title": "What this stage established.",
+        "paragraphs": [
+          "This stage established a visual direction and demonstrated it through a style guide, a login screen, and illustrations. Those foundations provided a starting point for the broader marketplace experience.",
+          "In a next phase, I would test how people distinguish selling, trading, and donating, and what information they need to complete each path."
+        ],
+        "images": [],
+        "bullets": []
+      }
+    ],
+    "featured": false
+  },
+  {
+    "slug": "collabeebot",
+    "name": "CollaBeeBot",
+    "title": "Exploring a voice shortcut to learning information.",
+    "summary": "An Alexa skill concept shaped around student tasks and barriers in a learning management system.",
+    "kind": "ACCESSIBILITY EXPLORATION",
+    "role": "Conversational interface design · Alexa skill development",
+    "scope": "Voice interaction · Learning experience",
+    "tools": "Amazon Alexa · Intent modelling",
+    "cover": {
+      "file": "c-img.png",
+      "alt": "Original CollaBeeBot concept artwork",
+      "caption": "CollaBeeBot — original concept illustration."
+    },
+    "sections": [
+      {
+        "title": "When finding information becomes the task.",
+        "paragraphs": [
+          "CollaBeeBot explored an alternative way to access information in VU Collaborate, Victoria University’s learning management system. A student interview session conducted for coursework in 2020 described navigation difficulties, hard-to-find information, and limited introduction to available features.",
+          "The concept used an Alexa-powered assistant to explore a different route to common student tasks. It was a potential solution, rather than a demonstrated fix for the learning platform."
+        ],
+        "images": [],
+        "bullets": []
+      },
+      {
+        "title": "Start with the questions students ask.",
+        "paragraphs": [
+          "The proposed scope covered subject information, assessment details and due dates, schedules, and grades. These tasks translated broad navigation concerns into specific requests an assistant could handle.",
+          "I modelled sample intents and slots: an intent captured the requested action, while a slot carried details such as a subject code. This kept the conversation connected to information the system would need to retrieve."
+        ],
+        "images": [
+          {
+            "file": "c-diagram.png",
+            "alt": "Original diagram of the voice-assistant data process",
+            "caption": "Original diagram explaining the voice interaction process."
+          },
+          {
+            "file": "c-intents.png",
+            "alt": "Original CollaBeeBot sample intents and slots",
+            "caption": "Original intent model for student requests."
+          }
+        ],
+        "bullets": []
+      },
+      {
+        "title": "An additional access route, with limits.",
+        "paragraphs": [
+          "Voice interaction was explored as another way to request information, including for people who find some graphical interfaces difficult to use. It was not treated as a replacement for all other ways of interacting.",
+          "The original work identified limits: noisy environments, the maintenance effort required, the scope of questions the assistant could answer, and conversations that could feel mechanical. These are important constraints on the concept."
+        ],
+        "images": [],
+        "bullets": []
+      },
+      {
+        "title": "What I would validate next.",
+        "paragraphs": [
+          "The output included the concept, a voice-processing diagram, sample intents, and a recorded demonstration. The next milestone would be evaluating the proposed accessibility benefits with people with different access needs.",
+          "Before a live integration, I would also review authentication, information privacy, error recovery, and the option to switch to text or a human."
+        ],
+        "images": [],
+        "bullets": []
+      }
+    ],
+    "featured": false
+  },
+  {
+    "slug": "learning-resource",
+    "name": "Learning to code",
+    "title": "Designing a more approachable first website lesson.",
+    "summary": "An asynchronous course proposal combining coding practice, text resources, and peer support.",
+    "kind": "LEARNING-DESIGN PROPOSAL",
+    "role": "Learning experience design · Accessibility exploration",
+    "scope": "Beginner coding · Universal Design for Learning",
+    "tools": "HTML · CSS · JavaScript · GitHub Pages",
+    "cover": {
+      "file": "coding-final.png",
+      "alt": "Original illustration for the beginner website course",
+      "caption": "Original coding-course illustration."
+    },
+    "sections": [
+      {
+        "title": "Lower the barrier to making a personal website.",
+        "paragraphs": [
+          "This proposal explored a short course for learners who wanted to create a portfolio, make a simple business profile, or understand web development. The intended final task was to build and publish a basic website using HTML, CSS, JavaScript, and GitHub Pages.",
+          "It was an educational resource proposal. The proposed learner outcomes describe the intended experience, rather than results from a delivered course."
+        ],
+        "images": [],
+        "bullets": []
+      },
+      {
+        "title": "Make the route to a published website explicit.",
+        "paragraphs": [
+          "The learning sequence covered account and repository setup, a sitemap and semantic HTML, CSS with a focus on Flexbox, simple animation, and publication. Each topic would pair an overview with activities and checks for understanding.",
+          "The proposed asynchronous format allowed learners to work at their own pace. An in-browser coding environment was considered to reduce setup work before the first exercise."
+        ],
+        "images": [],
+        "bullets": []
+      },
+      {
+        "title": "Offer more than one way to engage.",
+        "paragraphs": [
+          "The proposal combined text-based material, coding exercises, quizzes, game-based practice, and community discussion. Text and note-taking options were considered alongside video so that one format was not the only way to take part.",
+          "Educative and Flexbox Froggy were existing tools considered for the learning experience; their interfaces were references, not products I designed. The illustrations shown here come from the original proposal."
+        ],
+        "images": [
+          {
+            "file": "edu-1.png",
+            "alt": "Original illustration of students and professionals learning",
+            "caption": "Original learner illustration: students and professionals."
+          },
+          {
+            "file": "edu-2.png",
+            "alt": "Original illustration for small-business learners",
+            "caption": "Original learner illustration: small businesses."
+          },
+          {
+            "file": "edu-3.png",
+            "alt": "Original illustration for coding beginners",
+            "caption": "Original learner illustration: beginners."
+          }
+        ],
+        "bullets": []
+      },
+      {
+        "title": "What I would test before delivery.",
+        "paragraphs": [
+          "I would pilot one complete lesson with beginners, observing setup friction, exercise completion, and how learners recover from errors. I would also check keyboard access and whether the text and exercises convey what is needed without relying on the video.",
+          "The pilot would help assess the proposal through observed learning and task completion, before expanding it into a complete course."
+        ],
+        "images": [],
+        "bullets": []
+      }
+    ],
+    "featured": false
+  },
+  {
+    "slug": "design-research",
+    "name": "Design research",
+    "title": "Learning to separate evidence from assumptions.",
+    "summary": "A research reflection using interview, persona, journey-map, and user-story artefacts.",
+    "kind": "RESEARCH REFLECTION",
+    "role": "Research synthesis · UX exploration",
+    "scope": "Student experience · Research practice",
+    "tools": "Figma · Miro",
+    "cover": {
+      "file": "design-research.jpg",
+      "alt": "Original illustration introducing design research",
+      "caption": "Design research — original portfolio artwork."
+    },
+    "sections": [
+      {
+        "title": "Look beyond the interface.",
+        "paragraphs": [
+          "This piece reflects on learning how research can inform design. The original work included an online interview about an online-learning system with gamification, a student persona based on interview material, a personal journey map, and a user-story example.",
+          "These are examples of research practice across related learning activities. They should not be read as a single end-to-end client engagement."
+        ],
+        "images": [],
+        "bullets": []
+      },
+      {
+        "title": "Keep the evidence behind the artefact visible.",
+        "paragraphs": [
+          "The persona brought together characteristics, goals, and needs from interview material. Its value was in making the audience more explicit, rather than replacing the people interviewed with a polished diagram.",
+          "The personal journey map recorded my own international-student experience: actions, thoughts, feelings, and goals. That first-person perspective is useful context, but it is not evidence that every student has the same experience."
+        ],
+        "images": [
+          {
+            "file": "personaTwo.png",
+            "alt": "Original international-student persona",
+            "caption": "Original persona based on interview material."
+          },
+          {
+            "file": "myJourneyMap.jpg",
+            "alt": "Original map of Cheryl’s international-student journey",
+            "caption": "A first-person journey map of my international-student experience."
+          }
+        ],
+        "bullets": []
+      },
+      {
+        "title": "Connect understanding to a useful next question.",
+        "paragraphs": [
+          "The user-story example shifted attention from a feature to the person’s intended outcome. Together, these artefacts helped me practise moving from observations to a clearer framing of a design problem."
+        ],
+        "images": [
+          {
+            "file": "userStory.png",
+            "alt": "Original user-story artefact",
+            "caption": "Original user-story example from the research reflection."
+          }
+        ],
+        "bullets": []
+      },
+      {
+        "title": "What I take forward.",
+        "paragraphs": [
+          "A persona, a map, or a story is a working interpretation. I would revisit it as new evidence appears, make assumptions visible, and avoid treating a personal experience as representative of an entire audience.",
+          "The most useful next step is to carry those questions into a design decision, then return to people to evaluate whether that decision helps."
+        ],
+        "images": [],
+        "bullets": []
+      }
+    ],
+    "featured": false
+  }
+]

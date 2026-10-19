@@ -1,0 +1,130 @@
+[
+  {
+    "file": "atomic-design.png",
+    "sha256": "6064485d0643354aef277875cfa80b7a52bca5cde79444b8e65e1f4f6ed49d70"
+  },
+  {
+    "file": "c-diagram.png",
+    "sha256": "244907ac0b0d7a3984e45dce91262f2fdd98837bbc0dc707f81ae6b8e611c954"
+  },
+  {
+    "file": "c-img.png",
+    "sha256": "468f61d3aad6d65b2cc966d6fdbe3392e86200d8f26d11cd8d93f788fbe58812"
+  },
+  {
+    "file": "c-intents.png",
+    "sha256": "e4355db2f122701c1a3aaa3a259c20ebd37ca5bec7642c962f79abc4c197ebd2"
+  },
+  {
+    "file": "coding-final.png",
+    "sha256": "f6e0242ec57102f13b4fdc9a6214a22fb18d4145e6a906da07e16ada49c86ac7"
+  },
+  {
+    "file": "competitors.png",
+    "sha256": "836ce6bda501ecdca70cf09778c0fefa8ed24a5b1bcf5bc7fe285ff2c8986047"
+  },
+  {
+    "file": "crowfessorBottom.jpg",
+    "sha256": "b9ac4a8e4872f8ef66a8823e8ffad99847c2d84d7088ee7d33927cc829eb1532"
+  },
+  {
+    "file": "crowfessorFeatures.jpg",
+    "sha256": "6cd2363ea47f0a3872951fc88040fd6fd78191787bd5e84d1936d6aaa5be2680"
+  },
+  {
+    "file": "crowfessorJourneyMap.jpg",
+    "sha256": "2fda9d9a639b1890770120873969e67225e41c5ee18e5b794e2f2e20308f78f9"
+  },
+  {
+    "file": "crowfessorLogoStudy.jpg",
+    "sha256": "6f272f1d5b6a2dbddcf3774a9cc7101465043e87e342e73b46c2899dcf34cd02"
+  },
+  {
+    "file": "design-research.jpg",
+    "sha256": "4d5e07682ce7330fab3974d5c44353b0e82cbca4041b2caac6aa911feb9f4bc8"
+  },
+  {
+    "file": "edu-1.png",
+    "sha256": "961bb8f411ccdd481d5c9ea96f3400774acecabbf667738e1a75f9aa34d441f6"
+  },
+  {
+    "file": "edu-2.png",
+    "sha256": "b5b5d84aaf19931fb0d6164fd724320aee763f4739e1694b4502d8d03db9f5c5"
+  },
+  {
+    "file": "edu-3.png",
+    "sha256": "1f4cf2c149212074de72bef0db8e7bf37e7aa7976a23122fbcd6e8b42a121b16"
+  },
+  {
+    "file": "empty-screens.png",
+    "sha256": "87bb9237beaf2adaa3f871a0580bc85d1376f4390f201e07244e125625d61002"
+  },
+  {
+    "file": "join.png",
+    "sha256": "026ba85a3260a3c65dc1de1836adfa5bef4988aba12addc5ff6cb05300df4723"
+  },
+  {
+    "file": "kraiteIllustrations.png",
+    "sha256": "a7f3e09d6a05fca37b3ebabbfbdc340683c268e42cc2829af5ed159a53d76988"
+  },
+  {
+    "file": "kraiteLogin.png",
+    "sha256": "16db7a26a88ece49ee23098cea2e8840a0bf4f0fb453a98192f7b2d7f0351920"
+  },
+  {
+    "file": "kraiteLogo.svg",
+    "sha256": "b40726eddfafde529e390b330f6fda4b0414bebbae5abea83fafaae4d75063e2"
+  },
+  {
+    "file": "kraiteStyleguide.png",
+    "sha256": "7ebe227a57918736af47d713a61a932a55cea77c103fb9359da0827fe4f74e16"
+  },
+  {
+    "file": "myJourneyMap.jpg",
+    "sha256": "6e4295819197d19dfd0ca2afa3a52520b9c701e45c0b5939b554987927148909"
+  },
+  {
+    "file": "nifty-logo.svg",
+    "sha256": "2ac7d945de371a4d5d815add26fc5982f0659e9f091251a1bcdf25e21a31fbab"
+  },
+  {
+    "file": "niftyGif.gif",
+    "sha256": "2d5e21d727c1b04b5e72a437d277643102532c05b9d24fc2e82736e639fdb7a6"
+  },
+  {
+    "file": "niftyImage.jpg",
+    "sha256": "b3d401787a27f804d34e0f2591c528c0f85875fe101d3048fcaca5f4377db11d"
+  },
+  {
+    "file": "niftyStackBottom.jpg",
+    "sha256": "52859f6ddc7f2bbc581e998ec52fd06e57132c59a9395ca855544a60482224b8"
+  },
+  {
+    "file": "personaOne.jpg",
+    "sha256": "f4d286ce1037fad201303f09d002a34f0c598ba74927e81c9441ad55f308b653"
+  },
+  {
+    "file": "personaTwo.png",
+    "sha256": "2f434215f5929456dd6d674939edafb520441b70f86977dddaf17678d1121043"
+  },
+  {
+    "file": "protoOne.gif",
+    "sha256": "d3c6a21cb0ad92662191057a3363f5c3b1238f77ba1da4c302d77ed06ad7d70b"
+  },
+  {
+    "file": "protoTwo.gif",
+    "sha256": "8f4a5a7775abbfeca406f8f00392e3d36fd0c851d968f4d64bd3098e9a78cd13"
+  },
+  {
+    "file": "style-library2.png",
+    "sha256": "6caf21f4420123280604a575f429d5e31448c41c46ed8cb033b70b66612d3b7b"
+  },
+  {
+    "file": "userStory.png",
+    "sha256": "dcac71d3e4cbe9d29bc12817396db61b542544536ea393ae37115a8b1682e260"
+  },
+  {
+    "file": "wireframes.png",
+    "sha256": "57f95897ba8a5cdd9ef4e1fb725d5a76812e505dd3dae9c3bca3f2f173f60bd0"
+  }
+]
